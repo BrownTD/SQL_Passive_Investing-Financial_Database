@@ -1,1 +1,1 @@
-# SQL_Passive_Investing-Financial_Database
+# SQL_Passive_Investing_Financial_Database
